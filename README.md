@@ -1,15 +1,5 @@
 # Polymarket 5-Min & 15-Min BTC Trading Bot Strategies
 
-**Repository:** [PolyTutorsDao/polymarket-5min-15min-btc-trading-bot-strategies](https://github.com/PolyTutorsDao/polymarket-5min-15min-btc-trading-bot-strategies)
-
-### Related repositories
-
-| Repository | Description |
-|---|---|
-| [polymarket-5min-15min-btc-trading-bot-strategies](https://github.com/PolyTutorsDao/polymarket-5min-15min-btc-trading-bot-strategies) | **This repo** — strategy playbook for 5-minute and 15-minute BTC binary markets |
-| [polymarket-15min-btc-trading-tools](https://github.com/PolyTutorsDao/polymarket-15min-btc-trading-tools) | Real-time terminal dashboard for 15-minute BTC Up/Down markets |
-| [polymarket-trading-bot-crypto](https://github.com/PolyTutorsDao/polymarket-trading-bot-crypto) | Rust automation bot for 1-hour crypto Up/Down markets (BTC, ETH, SOL, XRP) |
-
 **My Polymarket accounts:** [@coal234](https://polymarket.com/@coal234?tab=activity) · [@spiralgalaxy](https://polymarket.com/@spiralgalaxy?tab=activity)  
 **我的 Polymarket 账户：** [@coal234](https://polymarket.com/@coal234?tab=activity) · [@spiralgalaxy](https://polymarket.com/@spiralgalaxy?tab=activity)
 
